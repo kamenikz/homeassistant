@@ -1,3 +1,3 @@
-# homeassistant
+# HomeAssistant
 
 by Zbyněk Kameník
